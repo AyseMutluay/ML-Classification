@@ -23,4 +23,4 @@ Bu proje, Microsoft ML.NET kütüphanesi kullanılarak geliştirilmiş, makine �
   4. `ClassificationOdev.exe` dosyasını çalıştırın.
 
   ### Geliştiren
- Ayşe Mutluay
+   Ayşe Mutluay
